@@ -92,6 +92,3 @@ module sui_nft::nft {
         id.delete()
     }
 }
-
-
-
