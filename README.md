@@ -1,6 +1,8 @@
 # Move-Sui-SDK
 
-update sui latest release
+Update SUI CLI latest release
 
-sui move build
-sui client publish --gas-budget 10000000000
+Run the following command to build the NFT pacakge
+
+`sui move build
+sui client publish --gas-budget 10000000000`
